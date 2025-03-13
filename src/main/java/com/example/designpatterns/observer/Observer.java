@@ -1,4 +1,8 @@
 package com.example.designpatterns.observer;
 
-public class Observer {
+/**
+ * Interfaz que define el metodo para recibir actualizaciones.
+ */
+public interface Observer {
+    void update(String message);
 }
