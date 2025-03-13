@@ -1,4 +1,8 @@
 package com.example.designpatterns.factory;
 
-public class Project {
+/**
+ * Interfaz que define la operación para mostrar la información del proyecto.
+ */
+public interface Project {
+    void displayInfo();
 }
