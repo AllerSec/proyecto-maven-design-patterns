@@ -34,3 +34,6 @@ Mostrar cómo estos patrones contribuyen a una arquitectura modular y escalable,
 - **Autor:** Unax Aller
 - **GitHub:** AllerSec
 
+## Link al repositorio
+https://github.com/AllerSec/proyecto-maven-design-patterns.git
+
